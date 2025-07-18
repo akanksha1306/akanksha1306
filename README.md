@@ -1,6 +1,6 @@
 👋 Hi, I'm Akanksha Khaire!
 
-✨ With 3 years of hands-on experience in the IT sector, I've been actively involved in various technical roles, gaining valuable insights into software development, systems administration, and IT infrastructure management.
+✨ With 3.7 years of hands-on experience in the IT sector, I've been actively involved in various technical roles, gaining valuable insights into software development, systems administration, and IT infrastructure management.
 
 🌱 I've done a Master of Science in Information Systems at California State University - Los Angeles.
 
